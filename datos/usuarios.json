@@ -1,0 +1,14 @@
+{
+    "onti": {
+        "password": "onti123",
+        "rol": "fiscal"
+    },
+    "vene": {
+        "password": "vene123",
+        "rol": "perito"
+    },
+    "primo": {
+        "password": "primo123",
+        "rol": "abogado defensor"
+    }
+}

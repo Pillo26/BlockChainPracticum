@@ -1,0 +1,5 @@
+Nombre del archivo: evidencia3.txt
+Caso: 2025-FGJCDMX-001
+Tipo: Grabación de audio
+Descripción: Fragmento de la llamada de emergencia al 911.
+Hash esperado (SHA-256): Generar al cargar al sistema

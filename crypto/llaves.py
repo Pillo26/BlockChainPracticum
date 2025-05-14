@@ -8,17 +8,14 @@ from cryptography.hazmat.primitives import serialization
 # Ruta donde se almacenarán las llaves del nodo
 RUTA_LLAVES = "datos/llaves_nodo.json"
 
-def generar_llaves():
+def generar_llaves(nombre_archivo=RUTA_LLAVES):
     """
     Genera un par de llaves ECDSA (privada y pública) y las guarda en formato PEM.
+    Permite especificar el archivo de salida.
     """
-    # Generar clave privada
     clave_privada = ec.generate_private_key(ec.SECP256R1())
-
-    # Derivar clave pública
     clave_publica = clave_privada.public_key()
 
-    # Serializar a formato PEM (texto legible)
     privada_pem = clave_privada.private_bytes(
         encoding=serialization.Encoding.PEM,
         format=serialization.PrivateFormat.PKCS8,
@@ -30,24 +27,20 @@ def generar_llaves():
         format=serialization.PublicFormat.SubjectPublicKeyInfo
     ).decode()
 
-    # Guardar en archivo JSON
-    with open(RUTA_LLAVES, 'w') as archivo:
+    with open(nombre_archivo, 'w') as archivo:
         json.dump({
             'clave_privada': privada_pem,
             'clave_publica': publica_pem
         }, archivo, indent=4)
 
-    print("🔐 Llaves ECDSA generadas y guardadas exitosamente.")
+    print(f"🔐 Llaves ECDSA guardadas en {nombre_archivo}")
 
-def cargar_llaves():
-    """
-    Carga las llaves ECDSA desde archivo JSON.
-    Retorna: (clave_privada, clave_publica)
-    """
-    if not os.path.exists(RUTA_LLAVES):
+
+def cargar_llaves(nombre_archivo=RUTA_LLAVES):
+    if not os.path.exists(nombre_archivo):
         raise FileNotFoundError("No se encontraron llaves. Genera primero con generar_llaves().")
 
-    with open(RUTA_LLAVES, 'r') as archivo:
+    with open(nombre_archivo, 'r') as archivo:
         datos = json.load(archivo)
 
     clave_privada = serialization.load_pem_private_key(
@@ -58,3 +51,4 @@ def cargar_llaves():
     )
 
     return clave_privada, clave_publica
+

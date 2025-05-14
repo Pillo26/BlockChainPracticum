@@ -1,0 +1,4 @@
+{
+    "clave_privada": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgMIEziRnQL7Ck+XnB\nWzu95LoO7rozCtg2lCNaqtFJyWehRANCAAQCdi+UOhe1Lx+hE7hrg0nBwlyKwAGW\nQL12CsGZKbH3swVI7BDc5sCbO8sf159e/mrvTaENCckSGM9RAcpvL+hF\n-----END PRIVATE KEY-----\n",
+    "clave_publica": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEAnYvlDoXtS8foRO4a4NJwcJcisAB\nlkC9dgrBmSmx97MFSOwQ3ObAmzvLH9efXv5q702hDQnJEhjPUQHKby/oRQ==\n-----END PUBLIC KEY-----\n"
+}

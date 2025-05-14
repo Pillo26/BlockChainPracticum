@@ -1,0 +1,5 @@
+Nombre del archivo: evidencia1.txt
+Caso: 2025-FGJCDMX-001
+Tipo: Fotografía digital
+Descripción: Imagen de la escena del crimen, capturada el 10 de mayo de 2025.
+Hash esperado (SHA-256): Generar al cargar al sistema

@@ -1,5 +1,5 @@
 {
-    "usuario": "maria_fiscal",
+    "usuario": "onti",
     "rol": "fiscal",
-    "ruta_llaves": "datos/llaves_fiscal.json"
+    "ruta_llaves": "datos/llaves_onti.json"
 }

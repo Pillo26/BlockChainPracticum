@@ -1,0 +1,46 @@
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:01:19.454777"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:07:10.182798"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:31:22.628537"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:31:29.665283"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:33:53.072141"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:33:54.633267"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:34:29.244005"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:34:31.353962"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:34:33.090834"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:34:53.379783"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:34:55.411468"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-13T21:34:57.170890"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T21:38:36.343088"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-13T21:38:40.826153"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-13T21:39:01.077440"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T21:40:40.423200"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-13T21:40:42.002996"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-13T21:40:43.746136"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T21:41:15.938378"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-13T21:41:18.356888"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-13T21:41:20.375076"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T21:41:47.475696"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-13T21:41:48.941825"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-13T21:41:51.356308"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:31:54.627821"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:32:02.836201"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:32:16.898859"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:32:28.643081"}
+{"usuario": "Davis", "rol": "perito", "accion": "Simul\u00f3 disputa legal", "archivo": "evidencia1 - Copy.txt", "extra": "coincide", "timestamp": "2025-05-13T22:33:03.065237"}
+{"usuario": "Davis", "rol": "perito", "accion": "Simul\u00f3 disputa legal", "archivo": "evidencia1.txt", "extra": "alterado", "timestamp": "2025-05-13T22:33:46.342566"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:42:44.884789"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:42:49.326408"}
+{"usuario": "Davis", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:43:03.470596"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-13T22:43:15.930319"}
+{"usuario": "Strappy", "rol": "abogado defensor", "accion": "Min\u00f3 bloque con evidencia", "archivo": "4c0e19f15fb26a4534293bf0b0bfd160895b1dc5defa79c4dbdce88ad489492a", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-13T22:43:15.977848"}
+{"usuario": "vene", "rol": "perito", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T00:04:52.612407"}
+{"usuario": "vene", "rol": "perito", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-14T00:05:00.943278"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T00:05:08.969187"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-14T00:05:13.657236"}
+{"usuario": "primo", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-14T00:05:37.088690"}
+{"usuario": "primo", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T00:05:40.177961"}
+{"usuario": "onti", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T00:05:53.933497"}
+{"usuario": "onti", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia2.txt", "extra": null, "timestamp": "2025-05-14T00:05:56.957462"}
+{"usuario": "onti", "rol": "fiscal", "accion": "Min\u00f3 bloque con evidencia", "archivo": "4c0e19f15fb26a4534293bf0b0bfd160895b1dc5defa79c4dbdce88ad489492a", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T00:05:57.039021"}
+{"usuario": "onti", "rol": "fiscal", "accion": "Min\u00f3 bloque con evidencia", "archivo": "c66ba19ddc66847c308c2a6e3ea39aa68c597bd39523545fce85bbd6adadef55", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T00:05:57.055014"}
+{"usuario": "onti", "rol": "fiscal", "accion": "Simul\u00f3 disputa legal", "archivo": "evidencia1 - Copy.txt", "extra": "alterado", "timestamp": "2025-05-14T00:06:41.248460"}

@@ -1,226 +1,60 @@
 [
     {
-        "id_caso": "CASO-456",
-        "entidad": "Juzgado Penal",
-        "evidencias": [
-            "56ec1d00aea7bc54fc36ce490a2b8dc94771f243077e560898966d38baf01198",
-            "bdf07735f3bc56c714b08a782df8430be78879789fb50898a18b1aa245452f80",
-            "ef12732e8e59ffbbb72992077e9e6da0e9820798b4e8751afe509e00fa9f325c"
-        ],
-        "timestamp": 1747177000.8813517,
-        "merkle_root": "42c2357b8e7029d0186b0f9ea3c51ed53fe3480523b29a798c4b8069e4a859b6",
-        "firmantes": [
-            {
-                "usuario": "firmante_1",
-                "firma": "3045022043b615392f205d724212589f099821abffd6108b1b66795d0671608f5a7bb23002210091a441d50234a67dcaf0dc3e45155236025f0e43f3e1070f770f8dff6edc8fc0"
-            },
-            {
-                "usuario": "firmante_2",
-                "firma": "3045022068f5c2e81f0ce9eed0671385282ea5265d6ff737e03761b69853a88b5ed32310022100f86110b6823e580f6b999a8e5b1cad1330b015b6cbc0ba6739d58be81c23ca25"
-            }
-        ],
-        "validadores": [
-            "juez2"
-        ],
-        "hash_anterior": "0000000000000000000000000000000000000000000000000000000000000000",
-        "fiscal_responsable": "Juez Y",
-        "hash_bloque": "68946e40ee471447b01bf91194e62507110a08622367bf9b7f4c477d9eb9e5f5"
-    },
-    {
-        "id_caso": "CASO-456",
-        "entidad": "Juzgado Penal",
-        "evidencias": [
-            "56ec1d00aea7bc54fc36ce490a2b8dc94771f243077e560898966d38baf01198",
-            "bdf07735f3bc56c714b08a782df8430be78879789fb50898a18b1aa245452f80",
-            "ef12732e8e59ffbbb72992077e9e6da0e9820798b4e8751afe509e00fa9f325c"
-        ],
-        "timestamp": 1747177475.8199987,
-        "merkle_root": "42c2357b8e7029d0186b0f9ea3c51ed53fe3480523b29a798c4b8069e4a859b6",
-        "firmantes": [
-            {
-                "usuario": "firmante_1",
-                "firma": "304402202eb39c28a27b0c616e9221ce0a2ed93998738342e8f9d4ce9a6235995ed96700022016033e543b40348d6b30b3df5eb4cc5628fc553a47fde14adfbeb8d846f96a30"
-            },
-            {
-                "usuario": "firmante_2",
-                "firma": "3044022004b85fabdd6c53c9b30ecbd0af7f68a7f9da38f6ca7f71c71a6405aaf4b9f87802206a4de40dc9db640734b287e1834297eb5344efcdfef352affa75fb26d929cfe8"
-            }
-        ],
-        "validadores": [
-            "juez2"
-        ],
-        "hash_anterior": "68946e40ee471447b01bf91194e62507110a08622367bf9b7f4c477d9eb9e5f5",
-        "fiscal_responsable": "Juez Y",
-        "hash_bloque": "ebb84eaaaaacc1d16f766d3219c115bf2a55c863446f058a3ef7e1ab5a21c766"
-    },
-    {
-        "id_caso": "CASO-456",
-        "entidad": "Juzgado Penal",
-        "evidencias": [
-            "56ec1d00aea7bc54fc36ce490a2b8dc94771f243077e560898966d38baf01198",
-            "bdf07735f3bc56c714b08a782df8430be78879789fb50898a18b1aa245452f80",
-            "ef12732e8e59ffbbb72992077e9e6da0e9820798b4e8751afe509e00fa9f325c"
-        ],
-        "timestamp": 1747177551.662319,
-        "merkle_root": "42c2357b8e7029d0186b0f9ea3c51ed53fe3480523b29a798c4b8069e4a859b6",
-        "firmantes": [
-            {
-                "usuario": "firmante_1",
-                "firma": "3045022100c700f910dba5cc8f029184c22fd9e27af22f3229905a2b8f6621fb6143e158130220632451b1112157dda63bcc50b2732e3c4875a5ca71a2c72836fdfcd1b6cc2da3"
-            },
-            {
-                "usuario": "firmante_2",
-                "firma": "3045022100e962fdfa0edfa759e5baa6f3ae1aa64490b3010d072088fd5ecc4d7cf9896dbe02207d31164631f09956e166ad4e23edd248123b20bafa3d6cd79032fc79f4e3f082"
-            }
-        ],
-        "validadores": [
-            "juez2"
-        ],
-        "hash_anterior": "ebb84eaaaaacc1d16f766d3219c115bf2a55c863446f058a3ef7e1ab5a21c766",
-        "fiscal_responsable": "Juez Y",
-        "hash_bloque": "d48670a01f75d5c425864db5da84b4bd96469a0a553ed4043fb60fb8a3e05261"
-    },
-    {
-        "id_caso": "CASO-456",
-        "entidad": "Juzgado Penal",
-        "evidencias": [
-            "56ec1d00aea7bc54fc36ce490a2b8dc94771f243077e560898966d38baf01198",
-            "bdf07735f3bc56c714b08a782df8430be78879789fb50898a18b1aa245452f80",
-            "ef12732e8e59ffbbb72992077e9e6da0e9820798b4e8751afe509e00fa9f325c"
-        ],
-        "timestamp": 1747177602.87181,
-        "merkle_root": "42c2357b8e7029d0186b0f9ea3c51ed53fe3480523b29a798c4b8069e4a859b6",
-        "firmantes": [
-            {
-                "usuario": "firmante_1",
-                "firma": "304402207012d9ab26e533f86242586154fc13e7b5dc286b603ae32beecf97151831d4c40220071521cbb491ab3780cc5b56bc069834697455f958bc5f9c44e637760e929c78"
-            },
-            {
-                "usuario": "firmante_2",
-                "firma": "3045022100ecae24c000febcb5c137bbe58b035efb5a068b7968731149920a7e4fb439270602207b4514b0591e0dd8b6fccbd1ce15a54ef1000625941df60b97bda3f2e384bd42"
-            }
-        ],
-        "validadores": [
-            "juez2"
-        ],
-        "hash_anterior": "d48670a01f75d5c425864db5da84b4bd96469a0a553ed4043fb60fb8a3e05261",
-        "fiscal_responsable": "Juez Y",
-        "hash_bloque": "4f4c1ef6ffc4f1add9fceb5e18be681b3ba8ddbd40da6bc138ce35ccbe55e7a1"
-    },
-    {
-        "id_caso": "CASO-DEMO-001",
-        "entidad": "abogado_defensor",
-        "evidencias": [
-            "5dff5da60a62494bc164dfcbd66809afddd797fb9f27c78671b48b8d369cf265",
-            "5dff5da60a62494bc164dfcbd66809afddd797fb9f27c78671b48b8d369cf265",
-            "5dff5da60a62494bc164dfcbd66809afddd797fb9f27c78671b48b8d369cf265"
-        ],
-        "timestamp": 1747184782.6825116,
-        "merkle_root": "3e45ccb579508cd6c8e679450f3b60c5391c573a84c0d5468db8612633594f08",
-        "firmantes": [
-            {
-                "usuario": "maria_fiscal",
-                "rol": "fiscal",
-                "firma": "304602210082f2c129ea0b394ae255c6fd7f9a2687bd14ec9d2e00812fc9a65f8dcb9ad58a022100edc6dc320f4cfa487d1ebb2e6ca297357b40a747a4589c346ccd345c9ca6704a",
-                "fecha": "2025-05-13T18:48:02.014941",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "juan_perito",
-                "rol": "perito",
-                "firma": "304402203d261c26aa205e967f419bd6961706d39dba28e6947a723e6647291764cbd1a902200fb9f1ba76f5274b30f4f0cbb8ed551238bc3f2fa223afd23b7a2d2f4c5d5657",
-                "fecha": "2025-05-13T18:56:33.688369",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "pedro_abogado",
-                "rol": "abogado_defensor",
-                "firma": "304602210082287854acf77c7c348d7125046966fab0846534e218b5cf3ec2d25963dfaad602210096ef26ea4ad25b42fc0c6d9f97f9e085047e73e66d34cd26e16cc43d593956b7",
-                "fecha": "2025-05-13T18:57:20.443570",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "maria_fiscal",
-                "rol": "fiscal",
-                "firma": "3044022051abdbd7de7f1df952950fbab06a6954d350e414740dcf75fd20695f934eca6d0220615f7c24df60129125dcab3c06f51e41284621820ba014133c26c89dc9a45237",
-                "fecha": "2025-05-13T18:54:46.781942",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "pedro_abogado",
-                "rol": "abogado_defensor",
-                "firma": "304602210099bbfe25ca5c0a2cf0be8b115e8d326b651da959ea68a2039d7356c2073c22ba022100e0ace3767bf314eab8e0b4b15fa625d4cbf82e9bd1b4eb86d1719f88a6d9a8fb",
-                "fecha": "2025-05-13T19:02:02.144665",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "juan_perito",
-                "rol": "perito",
-                "firma": "3045022100f12fc36cf8f08f30abc730827a77f4da13cbb337d987653a49c75a1b0252f93d0220550813997ba57480ac04bd44b33e109c07e229b9f89a05bfd17f23296317e1ff",
-                "fecha": "2025-05-13T19:02:31.951722",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "juan_perito",
-                "rol": "perito",
-                "firma": "3046022100b66942bf5c2ace54e49f1945a3724ffc53f0551745d6e6a6d26c4feeed04b0680221009f4338c870fee097a97a660c44e957ffa62ffad1fb4be6372024bac929521a67",
-                "fecha": "2025-05-13T19:05:35.494981",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "maria_fiscal",
-                "rol": "fiscal",
-                "firma": "304502210093b1ba87428b500425cd4e7fd4d5f2cf468bc15ff70a730a4c82b8ad9bbafc23022008f82c07a7dfcae6292d76b131b0ce035b5ab697d641eb9ec539858ec4a06abd",
-                "fecha": "2025-05-13T19:06:03.476855",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            },
-            {
-                "usuario": "pedro_abogado",
-                "rol": "abogado_defensor",
-                "firma": "3045022035b05e1f13d404732797edbc96c708617326eda45c7d111dba6c92f83d5b3274022100df91dcbbbce449f44da8644ccc89ea9ccd7d2f810851e9739effe7d11fc68880",
-                "fecha": "2025-05-13T19:06:22.668510",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
-            }
-        ],
-        "validadores": [],
-        "hash_anterior": "",
-        "fiscal_responsable": "pedro_abogado",
-        "hash_bloque": "5c8599ef81a125bf6053cf483525d36725688224a0ba2053ef7e79e47f6f6879"
-    },
-    {
         "id_caso": "CASO-DEMO-001",
         "entidad": "fiscal",
         "evidencias": [
-            "5dff5da60a62494bc164dfcbd66809afddd797fb9f27c78671b48b8d369cf265"
+            "4c0e19f15fb26a4534293bf0b0bfd160895b1dc5defa79c4dbdce88ad489492a",
+            "c66ba19ddc66847c308c2a6e3ea39aa68c597bd39523545fce85bbd6adadef55"
         ],
-        "timestamp": 1747184946.6174529,
-        "merkle_root": "5dff5da60a62494bc164dfcbd66809afddd797fb9f27c78671b48b8d369cf265",
+        "timestamp": 1747202756.9734707,
+        "merkle_root": "5e1da451e28d648e251596d9eed0e169999075d9a83ed6b644ef8d3988f7501f",
         "firmantes": [
             {
-                "usuario": "juan_perito",
+                "usuario": "vene",
                 "rol": "perito",
-                "firma": "3046022100ff6e409b175bcb72cd2e1f93d9b222caa019936a774627429c7bfc8fa7f383fc022100cc39d0d775eea4a871451baed5d0d8b6ab7da7211599ccd253c93485eeb53460",
-                "fecha": "2025-05-13T19:07:48.048351",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
+                "firma": "3045022100cad0addd36bddb3bf7bea2c14177ff991297f1168ad330c9c4cde9059d1d7a1d0220122a1cc9775fe45d2026fb82b6421e714d97b2cf3a4bf0b3e23e05dadc8c8319",
+                "fecha": "2025-05-14T00:05:08.941644",
+                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoPek29E97BS/0hovKiY75afFgMjm\niAlLmMwwTWIcepJDEOpA1k1JoJeOomUkEZV+Dd6+q8KkXA4RwPsEwNmVrg==\n-----END PUBLIC KEY-----\n"
             },
             {
-                "usuario": "pedro_abogado",
-                "rol": "abogado_defensor",
-                "firma": "3045022100cf295c8f1e4aa7767e0a65423e63a390b9a0a39468d18e284afa2419ba8f17c2022056d0bb8a6abf86a7a3c8d641c3186a4c4090fbe9c722c39d787e817a8e07676e",
-                "fecha": "2025-05-13T19:08:28.275709",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
+                "usuario": "primo",
+                "rol": "abogado defensor",
+                "firma": "3045022100bbc4e5feff417c6fc6ded1a45bb0498ebdcbbab00c87521ed53964e6a384e25502202157b32f8c96dae39f05e3b3e8bdebd0eedda568380de44e90c4791984dfd460",
+                "fecha": "2025-05-14T00:05:40.153869",
+                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoPek29E97BS/0hovKiY75afFgMjm\niAlLmMwwTWIcepJDEOpA1k1JoJeOomUkEZV+Dd6+q8KkXA4RwPsEwNmVrg==\n-----END PUBLIC KEY-----\n"
             },
             {
-                "usuario": "maria_fiscal",
+                "usuario": "onti",
                 "rol": "fiscal",
-                "firma": "30450220292cc01a00cfc0cb385f46ce66e05e64c06de679ac3f1113b848d35418850364022100a5511e327d79864e140e674058d9be4fad9797874df65990766ea89452273da4",
-                "fecha": "2025-05-13T19:09:06.596433",
-                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1gyOgmZ9NOxdlEBNXge2Bx8mnNKp\nFBBx8s+HU12VThaU3p1/+gyFNewV7oeYc+psAajT6nWllvhjuek6vGiuCQ==\n-----END PUBLIC KEY-----\n"
+                "firma": "3045022100d64e9a384513c76928370286a51b44da9fd4062f77a5f4ee386c76d0215ff4c902204de064f3d92ff3445496222b264959dc50314142d301800422c421bd996fdb3b",
+                "fecha": "2025-05-14T00:05:53.900217",
+                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoPek29E97BS/0hovKiY75afFgMjm\niAlLmMwwTWIcepJDEOpA1k1JoJeOomUkEZV+Dd6+q8KkXA4RwPsEwNmVrg==\n-----END PUBLIC KEY-----\n"
+            },
+            {
+                "usuario": "vene",
+                "rol": "perito",
+                "firma": "30450221008ae7ed44361be63f15ebf95f954e82327b52bb8a3355ff7406b91de217a382ec02200a1a2fd24fd05012f4519f8b1e2c5519dc3caa209ac9847d8cabad47b212a071",
+                "fecha": "2025-05-14T00:05:13.612812",
+                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoPek29E97BS/0hovKiY75afFgMjm\niAlLmMwwTWIcepJDEOpA1k1JoJeOomUkEZV+Dd6+q8KkXA4RwPsEwNmVrg==\n-----END PUBLIC KEY-----\n"
+            },
+            {
+                "usuario": "primo",
+                "rol": "abogado defensor",
+                "firma": "304502210085b1b6e22c50e75cd4d79ec02d3d85346f99007455aa4975e67f56634f1ada1b022036924fe76731ae20f24d5935bc275989904662fd56175b405086953c8ffe66f8",
+                "fecha": "2025-05-14T00:05:37.061623",
+                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoPek29E97BS/0hovKiY75afFgMjm\niAlLmMwwTWIcepJDEOpA1k1JoJeOomUkEZV+Dd6+q8KkXA4RwPsEwNmVrg==\n-----END PUBLIC KEY-----\n"
+            },
+            {
+                "usuario": "onti",
+                "rol": "fiscal",
+                "firma": "30440220443a9111072945487c41253ca55057bec437d629ff2f47b3aa307c628c83347f02200a4ee6565c899ee2f1ce43c908ad4a9d25119c6958e0ea30b7c24e69fdb32be9",
+                "fecha": "2025-05-14T00:05:56.929799",
+                "clave": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEoPek29E97BS/0hovKiY75afFgMjm\niAlLmMwwTWIcepJDEOpA1k1JoJeOomUkEZV+Dd6+q8KkXA4RwPsEwNmVrg==\n-----END PUBLIC KEY-----\n"
             }
         ],
         "validadores": [],
         "hash_anterior": "",
-        "fiscal_responsable": "maria",
-        "hash_bloque": "215ba4e19fe2d46ba8d6561378a529e6a04f74601bf2b1e691b0a772a030f5b1"
+        "fiscal_responsable": "onti",
+        "hash_bloque": "097714fc46c71df9185f5198d4b8282af6f88980b51e7ac491c43b01e73473de"
     }
 ]
