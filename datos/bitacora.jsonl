@@ -44,3 +44,33 @@
 {"usuario": "onti", "rol": "fiscal", "accion": "Min\u00f3 bloque con evidencia", "archivo": "4c0e19f15fb26a4534293bf0b0bfd160895b1dc5defa79c4dbdce88ad489492a", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T00:05:57.039021"}
 {"usuario": "onti", "rol": "fiscal", "accion": "Min\u00f3 bloque con evidencia", "archivo": "c66ba19ddc66847c308c2a6e3ea39aa68c597bd39523545fce85bbd6adadef55", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T00:05:57.055014"}
 {"usuario": "onti", "rol": "fiscal", "accion": "Simul\u00f3 disputa legal", "archivo": "evidencia1 - Copy.txt", "extra": "alterado", "timestamp": "2025-05-14T00:06:41.248460"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T13:52:31.117156"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T13:52:34.421397"}
+{"usuario": "primo", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T13:53:01.803114"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T13:53:25.096844"}
+{"usuario": "vene", "rol": "perito", "accion": "Min\u00f3 bloque con evidencia", "archivo": "4c0e19f15fb26a4534293bf0b0bfd160895b1dc5defa79c4dbdce88ad489492a", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T13:53:25.242591"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T14:50:53.598685"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T14:50:56.586377"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T14:51:13.991578"}
+{"usuario": "onti", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T14:51:34.127058"}
+{"usuario": "onti", "rol": "fiscal", "accion": "Min\u00f3 bloque con evidencia", "archivo": "cf199c5e9501f1b64fefceb06a51adfb5930ddb5ae6b21e783511bc7e707c331", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T14:51:34.190150"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-14T16:17:09.247362"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-14T16:17:19.465410"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T16:17:29.122850"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T16:17:39.714401"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Subi\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-14T16:17:53.741286"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-14T16:17:59.379592"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T16:18:01.339944"}
+{"usuario": "Luis", "rol": "fiscal", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T16:18:03.043400"}
+{"usuario": "primo", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-14T16:18:23.762700"}
+{"usuario": "primo", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T16:18:26.008332"}
+{"usuario": "primo", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T16:18:28.164454"}
+{"usuario": "primo", "rol": "abogado defensor", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-14T16:18:29.968517"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia3.txt", "extra": null, "timestamp": "2025-05-14T16:18:47.302299"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia1.txt", "extra": null, "timestamp": "2025-05-14T16:18:49.167594"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "foto.jpeg", "extra": null, "timestamp": "2025-05-14T16:18:50.942467"}
+{"usuario": "vene", "rol": "perito", "accion": "Firm\u00f3 evidencia", "archivo": "evidencia_demo.txt", "extra": null, "timestamp": "2025-05-14T16:18:53.021977"}
+{"usuario": "vene", "rol": "perito", "accion": "Min\u00f3 bloque con evidencia", "archivo": "53ac499f1bffc4ae8ca3129321117f971b906adfc1eec066c2678b602c5f9fcf", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T16:18:53.105410"}
+{"usuario": "vene", "rol": "perito", "accion": "Min\u00f3 bloque con evidencia", "archivo": "4c0e19f15fb26a4534293bf0b0bfd160895b1dc5defa79c4dbdce88ad489492a", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T16:18:53.117428"}
+{"usuario": "vene", "rol": "perito", "accion": "Min\u00f3 bloque con evidencia", "archivo": "cf199c5e9501f1b64fefceb06a51adfb5930ddb5ae6b21e783511bc7e707c331", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T16:18:53.135974"}
+{"usuario": "vene", "rol": "perito", "accion": "Min\u00f3 bloque con evidencia", "archivo": "79b5fbf5739af72e8d0fee2e664740ceea81f4de493bdeb542a891a46e25d20c", "extra": "Evidencia alcanz\u00f3 el umbral de firmas", "timestamp": "2025-05-14T16:18:53.153515"}

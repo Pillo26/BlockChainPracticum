@@ -10,5 +10,9 @@
     "primo": {
         "password": "primo123",
         "rol": "abogado defensor"
+    },
+    "Luis": {
+        "password": "1234",
+        "rol": "fiscal"
     }
 }
