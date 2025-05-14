@@ -1,0 +1,5 @@
+{
+    "usuario": "maria_fiscal",
+    "rol": "fiscal",
+    "ruta_llaves": "datos/llaves_fiscal.json"
+}

@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+*.log
+
+# Archivos sensibles
+*.pem
+*.key
+llaves_nodo.json
+claves_publicas.json
