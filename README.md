@@ -71,4 +71,23 @@ Cada bloque contiene los siguientes campos:
 
 ---
 
+## 🛠️ Instalación y ejecución del proyecto
 
+### 1. Clona el repositorio (si aplica)
+
+git clone https://github.com/Pillo26/Evidencias_BlockChain.git
+
+### 2. Crear y activar un entorno virtual
+
+python -m venv venv
+venv\Scripts\activate
+
+### 3. Instalar los paquetes necesarios
+
+pip install -r requirements.txt
+
+### 4. Ejecución del proyecto
+
+python main.py
+
+---
